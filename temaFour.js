@@ -25,7 +25,7 @@ const getRandom = (start, end) => {
 console.log(getRandom(3, 5));
 
 //------------------------------------------------------
-console.log("Exercitiul 3:");
+console.log("Exercitiul 3");
 
 const letterCount = (sir, litera) => {
   const litere = sir.split("");
